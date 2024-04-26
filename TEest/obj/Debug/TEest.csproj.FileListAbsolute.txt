@@ -1,0 +1,8 @@
+C:\Users\ederh\source\repos\TEest\TEest\bin\Debug\TEest.exe.config
+C:\Users\ederh\source\repos\TEest\TEest\bin\Debug\TEest.exe
+C:\Users\ederh\source\repos\TEest\TEest\bin\Debug\TEest.pdb
+C:\Users\ederh\source\repos\TEest\TEest\obj\Debug\TEest.csproj.AssemblyReference.cache
+C:\Users\ederh\source\repos\TEest\TEest\obj\Debug\TEest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ederh\source\repos\TEest\TEest\obj\Debug\TEest.csproj.CoreCompileInputs.cache
+C:\Users\ederh\source\repos\TEest\TEest\obj\Debug\TEest.exe
+C:\Users\ederh\source\repos\TEest\TEest\obj\Debug\TEest.pdb
